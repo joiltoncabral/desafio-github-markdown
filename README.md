@@ -1,4 +1,4 @@
-<center><h1>Git & GitHub - Explorando Colaboração e Markdown </h1></center>
+<center><h1>Desafio - Git & GitHub - Explorando Colaboração e Markdown </h1></center>
 
 #### >> DESAFIO DE PROJETO <<
 
@@ -10,10 +10,10 @@ Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui t
    - Essencial para alcançarmos nossos objetivos.
 
 2. **Criar um Repositório:**
-   - Crie um novo repositório no GitHub, nomeando-o como "desafio-github-markdown" ou outro nome.
-   - Adicione o seu README.md ao criar o repositório.
-   - Utilize o Github.dev para editar seu projeto diretamente com o editor web do Github.
-   - Lembre-se: o repositório deve ser público.
+   - Criado fork do repositorio e mantido o mesmo nome "desafio-github-markdown".
+   - README.md foi alterado com commit na sequencia.
+   - Utilizado o Github.dev para editar seu projeto diretamente com o editor web do Github.
+   - Repositório público.
 
 3. **Colaboração:**
    - Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
